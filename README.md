@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=r4RoiChxsgQ&list=PL3KJBrqmANQ6GzgHDdn4B9ER6LFXTL
 
 4.  Go to Settings > Onscreen Display > Onscreen Overlay > Overlay Preset. Once in here you should now see all of the .cfg and .png files that were placed in overlay folder.
 
-5.  Make sure "Display Overlay" option is set to ON. It is your choice to have "Hide Overlay In Menu" turned ON/OFF.
+5.  Make sure "Display Overlay" option is set to ON. It is your choice to have "Hide Overlay In Menu" turned ON/OFF. You can also change the Opacity to make sure it fills or covers the borders.
 
 6.  Select one of the .cfg files corresponding to the overlay you wish to use. Example: SNES.cfg is selected, not the .png.
 
@@ -80,6 +80,8 @@ Please let me know if there are any issues with this module.
 Using the template model provided by PCM720
 
 I would like to thank ClusterM, Madmonkey1907, PCM720 for their great work and additions to be able to even do this.
+
+Thanks to nosh01 for the original overlays.
 
 Thanks to the GBATemp and Reddit community for assisting those that needed help when needed.
 
