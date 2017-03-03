@@ -1,0 +1,2 @@
+copy "$transferpath/overlay/." "$rootfs/etc/libretro/.config/retroarch/overlay"
+return 1
